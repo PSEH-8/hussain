@@ -36,6 +36,6 @@ public class BitcoinHistoryService {
                 e.printStackTrace();
             }
         }
-        return null;
+        return datePricePairList;
     }
 }
